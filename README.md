@@ -1,6 +1,6 @@
 # React-Lab-Exercise-10-React-Strict-Mode
-# Name: Aravindan T
-# Roll no: 2305001003
+# Name: dakshinamurthy.v
+# Roll no: 2305001006
 # Department: CSE
 # AIM
 To implement React Strict Mode and understand how it helps detect potential problems and unexpected side effects during development.
